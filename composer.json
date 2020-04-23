@@ -1,0 +1,25 @@
+{
+  "name": "hualaoshuan/mongodb",
+  "version": "v1.0.0",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "hualaoshuan",
+      "email": "hualaoshuan8868@hotmail.com"
+    }
+  ],
+  "require": {
+    "swoft/framework": "^2.0",
+    "php": ">=7.0",
+    "ext-mongodb": "^1.7"
+  },
+  "require-dev": {
+    "swoft/framework": "^2.0",
+    "swoft/db": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hualaoshuan\\Mongodb\\": "src/"
+    }
+  }
+}
