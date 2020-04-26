@@ -1,5 +1,6 @@
 {
-  "name": "hualaoshuan/mongodb",
+  "name": "hualaoshuan/swoft2-mongodb",
+  "description": "extension for Swoft2-MongoDB",
   "version": "v1.0.0",
   "license": "Apache-2.0",
   "authors": [
